@@ -1,0 +1,411 @@
+id,catalogNumber,scientificName,longitude,latitude,scientificNameOriginal,rank,family,genus,species,subspecies,locality,coordinateUncertaintyInMetres,state,year,basisOfRecord,outlierForLayer,taxonIdentificationIssue,locationQuality,dataProvider
+NA,SPJGI3684290,Calotis glandulosa,147.9659107,-31.45789512,NA,NA,Asteraceae,NA,NA,NA,"""Haddon Rig"" Station. Enteropogon dominant. Soils: grey heavy clay, pH 5.0 at surface, 5.5 at 10cm depth.",NA,NA,2000,NA,NA,NA,NA,BioNet
+ac1828fe-c199-4ec4-ac06-9e7ca25b047a,NSW 66364,Calotis glandulosa,148.5,-35.87,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Borders of Cooleman Plain, near Kiandra. Currango sheet 660 020.",25000,New South Wales,1962,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+109d1a4f-2b9b-4c9d-8edc-410bcd644a9b,CANB 480708.1,Calotis glandulosa,148.55,-36.4833,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Moonbah RC Cemetery, Southern Tablelands.",1000,New South Wales,1994,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+2670f657-a5ef-4f6f-ac84-ce69b3684ee6,NSW 369554,Calotis glandulosa,148.55,-36.48,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Moonbah RC Cemetery.,1000,New South Wales,1994,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+dc0d4a22-df9f-4ca0-8c4c-04a25e730f48,CANB 510056.1,Calotis glandulosa,148.55,-35.6667,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Kosciuszko National Park, Long Plain, 7.1 kms north of the Snowy Mountains Highway, along Long Plain road, east side of road.",1000,New South Wales,1998,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJJSI0663214,Calotis glandulosa,148.55006,-35.70146,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SDMPI0061050,Calotis glandulosa,148.5502303,-35.69917713,NA,NA,Asteraceae,NA,NA,NA,Long Plain Specified Reserve: Kosciuszko NP,NA,NA,2002,NA,NA,NA,NA,BioNet
+NA,SJJSI0663198,Calotis glandulosa,148.55031,-35.69911,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663188,Calotis glandulosa,148.55032,-35.69934,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663209,Calotis glandulosa,148.55039,-35.69902,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SPJGI5022948,Calotis glandulosa,148.5505843,-36.49327576,NA,NA,Asteraceae,NA,NA,NA,"Moonbah Cemetery LOCATION DETAILS: Moonbah Church, Barry Way south of Jindabyne",NA,NA,1996,NA,NA,NA,NA,BioNet
+NA,NSW369554,Calotis glandulosa,148.5512371,-36.48178559,NA,NA,Asteraceae,NA,NA,NA,Moonbah RC Cemetery.,NA,NA,1994,NA,NA,NA,NA,BioNet
+NA,SJJSI0663219,Calotis glandulosa,148.55131,-35.70121,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+b0f43550-19e6-4d17-b64d-3528e21bbe2d,CANB 749109.1,Calotis glandulosa,148.5514,-35.7036,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Kosciuszko National Park, Murrumbidgee River, downstream of Port Phillip Fire Trail crossing.",50,New South Wales,2007,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+0269bc8b-cfd1-4cd7-bd13-87276dd29158,CANB 749109.2,Calotis glandulosa,148.5514,-35.7036,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Kosciuszko National Park, Murrumbidgee River, downstream of Port Phillip Fire Trail crossing.",50,New South Wales,2007,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJJSI0663216,Calotis glandulosa,148.5514,-35.70134,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663217,Calotis glandulosa,148.5514,-35.70132,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663218,Calotis glandulosa,148.55142,-35.70136,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663215,Calotis glandulosa,148.55158,-35.70146,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663189,Calotis glandulosa,148.55621,-35.67699,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663191,Calotis glandulosa,148.55651,-35.67672,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663190,Calotis glandulosa,148.55657,-35.6768,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJOC99033004,Calotis glandulosa,148.5581236,-35.67315609,NA,NA,Asteraceae,NA,NA,NA,Long Plain Road (about 6.2 kms in from the Snowy Mountains H'way) Specified Map No: 8626-4-S Specified Reserve: Kosciuszko NP,NA,NA,1999,NA,NA,NA,NA,BioNet
+d52e4be7-3f69-41c3-a5d6-6ca548a82b35,NSW 568504,Calotis glandulosa,148.564,-35.6694,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Long Plain, 7.1 kms N of Snowy Mountains Highway along Long Plain Road, E side of road.",10000,New South Wales,1998,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,NSW568504,Calotis glandulosa,148.5656655,-35.66789313,NA,NA,Asteraceae,NA,NA,NA,"Long Plain, 7.1 kms N of Snowy Mountains Highway along Long Plain Road, E side of road.",NA,NA,1998,NA,NA,NA,NA,BioNet
+NA,SPJGI4102348,Calotis glandulosa,148.5771383,-32.01577021,NA,NA,Asteraceae,NA,NA,NA,Dubbo- Gilgandra Road.,NA,NA,2001,NA,NA,NA,NA,BioNet
+NA,SJJSI0663192,Calotis glandulosa,148.57876,-35.629,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663193,Calotis glandulosa,148.58046,-35.62816,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663194,Calotis glandulosa,148.58071,-35.62771,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663195,Calotis glandulosa,148.58096,-35.6275,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663196,Calotis glandulosa,148.58119,-35.62748,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+f15c1d09-5214-4140-8e60-5093be3be69c,MEL 2369538A,Calotis glandulosa,148.5819444,-35.80277778,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Kosciuszko National Park, Alpine Walking Track, Bullock Hill Fire Trail, c. 1.5 km NNW from its junction with Nungar Ck Fire Trail, c. 12 km due NE of Kiandra.",1000,New South Wales,2013,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJJSI0663197,Calotis glandulosa,148.60754,-35.604,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663199,Calotis glandulosa,148.60778,-35.60385,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SPJGI2767346,Calotis glandulosa,148.6078112,-35.60401667,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2002,NA,NA,NA,NA,BioNet
+NA,SJJSI0663201,Calotis glandulosa,148.61983,-35.5918,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663200,Calotis glandulosa,148.61993,-35.59202,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663187,Calotis glandulosa,148.62265,-35.55074,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663210,Calotis glandulosa,148.62324,-35.58942,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663211,Calotis glandulosa,148.62355,-35.58933,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SIXRI0041544,Calotis glandulosa,148.6244,-35.8229,NA,NA,Asteraceae,NA,NA,NA,"Kellys Plain, Kosciuszko National Park",NA,NA,2011,NA,NA,NA,NA,BioNet
+NA,SPJGI0034946,Calotis glandulosa,148.6244871,-35.87241479,NA,NA,Asteraceae,NA,NA,NA,"Track on western side of road to Tantangara Dam (from Snowy Mountains Highway), just south of Nungar Creek crossing Specified Reserve: Kosciuszko NP",NA,NA,2001,NA,NA,NA,NA,BioNet
+78f50cbf-7ba7-4ece-8126-b1b5786733e0,CANB 766172.1,Calotis glandulosa,148.625,-35.8736,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Tantangara Road (Wares Yards),50,New South Wales,2007,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+f34e2ebe-b719-4ad0-a47e-1b8f8afcf24c,NSW 872942,Calotis glandulosa,148.62508,-35.87375,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"6.8 km north of the Snowy Mountains Highway on the road to Tantangara Dam, at turnoff to Ware's Yard Camp Ground.",4,New South Wales,2011,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJJSI0663212,Calotis glandulosa,148.62515,-35.873779999999996,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SIXRI0041543,Calotis glandulosa,148.6253,-35.8178,NA,NA,Asteraceae,NA,NA,NA,"Kellys Plain, Kosciuszko National Park",NA,NA,2011,NA,NA,NA,NA,BioNet
+NA,SJJSI0663213,Calotis glandulosa,148.62538,-35.87387,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+569a7a47-5119-478d-a453-f9829759ecde,NSW 568508,Calotis glandulosa,148.627,-35.58,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Above Peppercorn Creek.,10000,New South Wales,1998,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,NSW568508,Calotis glandulosa,148.6284405,-35.57844776,NA,NA,Asteraceae,NA,NA,NA,Above Peppercorn Creek.,NA,NA,1998,NA,NA,NA,NA,BioNet
+691f43f5-6105-416b-b9e3-b09f96c8a311,NSW 568510,Calotis glandulosa,148.63,-35.93,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Adjacent to Providence Portal turnoff from Tumut-Adaminaby road.,10000,New South Wales,1990,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJJSI0663208,Calotis glandulosa,148.63013,-35.58303,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SIXRI0041548,Calotis glandulosa,148.6317,-35.8199,NA,NA,Asteraceae,NA,NA,NA,"Kellys Plain, Kosciuszko National Park",NA,NA,2011,NA,NA,NA,NA,BioNet
+NA,SJJSI0663205,Calotis glandulosa,148.63303,-35.57669,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663206,Calotis glandulosa,148.63317,-35.57654,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+982e2fed-6b43-4a08-bc06-a59c2659f8e9,CBG 9004978.1,Calotis glandulosa,148.6333,-35.9333,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Kosciusko National Park, adjacent to Providence Portal turnoff from Tumut-Adaminaby road.",10000,New South Wales,1990,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+87f110a9-9fa5-4692-aed6-82a18384afc7,CBG 9004740.1,Calotis glandulosa,148.6333,-35.8667,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Swamp ca 7 km along Tantangara Dam Road, Kosciuszko National Park.",2000,New South Wales,1990,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SIXRI0041545,Calotis glandulosa,148.6341,-35.8169,NA,NA,Asteraceae,NA,NA,NA,"Kellys Plain, Kosciuszko National Park",NA,NA,2011,NA,NA,NA,NA,BioNet
+NA,NSW568510,Calotis glandulosa,148.6345584,-35.93178226,NA,NA,Asteraceae,NA,NA,NA,Adjacent to Providence Portal turnoff from Tumut-Adaminaby road.,NA,NA,1990,NA,NA,NA,NA,BioNet
+NA,SDMPI0072014,Calotis glandulosa,148.6348707,-35.57901001,NA,NA,Asteraceae,NA,NA,NA,"near ruins on McLeods Fire Trail, Peppercorn Ck, Long Plain",NA,NA,2004,NA,NA,NA,NA,BioNet
+NA,SJJSI0663204,Calotis glandulosa,148.63506,-35.57795,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663207,Calotis glandulosa,148.63524,-35.57814,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663203,Calotis glandulosa,148.63529,-35.57796,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0656592,Calotis glandulosa,148.6353,-35.5786,NA,NA,Asteraceae,NA,NA,NA,"Ca 350 m upstream from track crossing above Peppercorn Creek, access to track via  McLeod fire trail, Kosciuszko National Park.",NA,NA,2016,NA,NA,NA,NA,BioNet
+fbfbab0b-dc11-4796-a3f1-a4889aa7bda6,CANB 813641.1,Calotis glandulosa,148.6353,-35.5786,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Ca 350 m upstream from track crossing above Peppercorn Creek, access to track via  McLeod fire trail, Kosciuszko National Park.",50,New South Wales,2016,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SIXRI0041546,Calotis glandulosa,148.636,-35.8142,NA,NA,Asteraceae,NA,NA,NA,"Kellys Plain, Kosciuszko National Park",NA,NA,2011,NA,NA,NA,NA,BioNet
+NA,SJJSI0663202,Calotis glandulosa,148.63654,-35.57861,NA,NA,Asteraceae,NA,NA,NA,Long Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+e7216c2a-6000-40b2-99eb-b6d9dc978c33,MEL 2097545A,Calotis glandulosa,148.6403,-35.8694,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Nungar Plain, western end (Kosciuszko National Park).",1000,New South Wales,2000,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SIXRI0041549,Calotis glandulosa,148.6425,-35.8124,NA,NA,Asteraceae,NA,NA,NA,"Kellys Plain, Kosciuszko National Park",NA,NA,2011,NA,NA,NA,NA,BioNet
+NA,945,Calotis glandulosa,148.6440102,-35.60393931,NA,NA,Asteraceae,NA,NA,NA,"NE of Kiandra, borders of Cooleman Plain, N of Tantangara Reservoi7b? Specified Map No: 8626 Specified Reserve: Kosciuszko NP",NA,NA,1962,NA,NA,NA,NA,BioNet
+NA,SIXRI0041547,Calotis glandulosa,148.6451,-35.8129,NA,NA,Asteraceae,NA,NA,NA,"Kellys Plain, Kosciuszko National Park",NA,NA,2011,NA,NA,NA,NA,BioNet
+NA,SPJGI0034947,Calotis glandulosa,148.6460502,-35.86535988,NA,NA,Asteraceae,NA,NA,NA,"Nungar Plain, western end Specified Reserve: Kosciuszko NP",NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SJJSI0663161,Calotis glandulosa,148.64622,-35.8658,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SPJGI0034948,Calotis glandulosa,148.6465304,-35.86715629,NA,NA,Asteraceae,NA,NA,NA,Track from Tantangara Road into Nungar Plain Specified Reserve: Kosciuszko NP,NA,NA,2001,NA,NA,NA,NA,BioNet
+NA,SJJSI0663160,Calotis glandulosa,148.64681,-35.86587,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663159,Calotis glandulosa,148.64686,-35.86596,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663158,Calotis glandulosa,148.64698,-35.8661,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663157,Calotis glandulosa,148.64712,-35.86636,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+d85333fc-b866-4cba-9693-07aa4b99e837,NSW 711057,Calotis glandulosa,148.64942,-35.87036,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"c. 7.5 km N along Tantangara Rd from Snowy Mtns Hwy, then 2.2 km E along Schofields Trail, then 500 m walk S into base of valley alongside Nungar Creek, Nungar Plain.",4.7,New South Wales,2009,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+56161c1a-bc16-4004-85ee-c226eee3d1d9,NE 95657,Calotis glandulosa,148.6494444,-35.87027778,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"c. 7.5 km N along Tantangara Road from Snowy Mountains Highway, then Kosciuszko National Park, 2.2 km E along Scholfields Trail, then 500 m walk S into base of valley alongside Nungar Creek, Nungar Plain",NA,New South Wales,2009,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+a0a7edd8-3f53-4b1a-acd4-c9d91bdf202d,CANB 360407.1,Calotis glandulosa,148.65,-35.9333,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Kosciusko NP; Snowy Mountains Highway, 1 km in from park entrancevia Adaminaby.",NA,New South Wales,1983,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJCM1403275O,Calotis glandulosa,148.6511128,-35.57337053,NA,NA,Asteraceae,NA,NA,NA,rock outcrop on large grassy plain east of McLeods Spur FT on Sallys Flat Ck,NA,NA,2013,NA,NA,NA,NA,BioNet
+NA,953,Calotis glandulosa,148.6512176,-35.93178292,NA,NA,Asteraceae,NA,NA,NA,"Via Adaminaby, Snowy Mtns Hwy, 1km from Kosciusko NP entrance Specified Map No: 8626 Specified Reserve: Kosciuszko NP",NA,NA,1983,NA,NA,NA,NA,BioNet
+NA,SJJSI0663155,Calotis glandulosa,148.65989,-35.86984,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663154,Calotis glandulosa,148.66074,-35.86966,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663138,Calotis glandulosa,148.66105,-35.87254,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663153,Calotis glandulosa,148.66157,-35.86939,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663152,Calotis glandulosa,148.66214,-35.86927,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663173,Calotis glandulosa,148.6624,-35.63017,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663172,Calotis glandulosa,148.66251,-35.63096,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663171,Calotis glandulosa,148.66251,-35.63072,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663170,Calotis glandulosa,148.66269,-35.63074,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663169,Calotis glandulosa,148.66274,-35.63073,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663168,Calotis glandulosa,148.66322,-35.63127,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663175,Calotis glandulosa,148.66326,-35.62872,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663174,Calotis glandulosa,148.66332,-35.62878,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663163,Calotis glandulosa,148.66337,-35.63107,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SDMPI0061052,Calotis glandulosa,148.6633714,-35.63107991,NA,NA,Asteraceae,NA,NA,NA,"Cave Creek, in vicinity of walking track Specified Reserve: Kosciuszko NP",NA,NA,2002,NA,NA,NA,NA,BioNet
+NA,SJJSI0663176,Calotis glandulosa,148.66338,-35.62865,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663162,Calotis glandulosa,148.66349,-35.62865,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663177,Calotis glandulosa,148.6635,-35.62852,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SDMPI0061051,Calotis glandulosa,148.6635306,-35.62863458,NA,NA,Asteraceae,NA,NA,NA,Cave Creek Specified Reserve: Kosciuszko NP,NA,NA,2002,NA,NA,NA,NA,BioNet
+NA,SJJSI0663151,Calotis glandulosa,148.6636,-35.8687,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+da5151fa-de0c-49b2-a592-f896e533f9f7,CANB 530937.1,Calotis glandulosa,148.6636,-35.6994,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Kosciuszko National Park. About 1 km south of Old Currago Hut along closed access trail, Currago Plain.",50,New South Wales,2000,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJJSI0663139,Calotis glandulosa,148.66391,-35.87413,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+8d819463-4ede-4e52-ae9b-c524c1d770e9,NSW 568503,Calotis glandulosa,148.664,-35.6808,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Approx. 400 m N of Old Currango Homestead, adjacent to the access track (old).",10000,New South Wales,1998,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJJSI0663178,Calotis glandulosa,148.66431,-35.62782,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663140,Calotis glandulosa,148.66461,-35.87419,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663179,Calotis glandulosa,148.66498,-35.62738,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663180,Calotis glandulosa,148.66508,-35.62631,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663147,Calotis glandulosa,148.66515,-35.86971,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,NSW568503,Calotis glandulosa,148.6653857,-35.67928107,NA,NA,Asteraceae,NA,NA,NA,"Approx. 400 m N of Old Currango Homestead, adjacent to the access track (old).",NA,NA,1998,NA,NA,NA,NA,BioNet
+NA,SJJSI0663148,Calotis glandulosa,148.66548,-35.86937,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663181,Calotis glandulosa,148.66578,-35.62657,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663149,Calotis glandulosa,148.66579,-35.86909,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663182,Calotis glandulosa,148.6661,-35.62659,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663150,Calotis glandulosa,148.66637,-35.8687,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+fb85cdc2-4e30-43d7-a062-eec0a49c3d29,CANB 510030.1,Calotis glandulosa,148.6667,-33.7317,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Kosciuszko National Park, ca 400 m N of Old Currango Homestead adjacent to the access track (old)",50,New South Wales,1998,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJJSI0663183,Calotis glandulosa,148.66714,-35.62575,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,NSW568506,Calotis glandulosa,148.667898,-36.23178364,NA,NA,Asteraceae,NA,NA,NA,"'Rocky Plains North' Station, near Lake Eucumbene.",NA,NA,1972,NA,NA,NA,NA,BioNet
+NA,SJJSI0663141,Calotis glandulosa,148.66963,-35.87142,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663146,Calotis glandulosa,148.6698,-35.87054,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+f4452f9f-043c-4ca8-81be-57c3303a20cf,NSW 568506,Calotis glandulosa,148.67,-36.23,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"'Rocky Plains North' Station, near Lake Eucumbene.",10000,New South Wales,1972,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SIXRI1217282,Calotis glandulosa,148.6729,-36.503064,NA,NA,Asteraceae,NA,NA,NA,"TSR north of Snowy River Way c 8 km E of Barry Way, c. 200m in from road.",NA,NA,2016,NA,NA,NA,NA,BioNet
+b85bc1f4-bbbb-4bb4-8065-088a712d9359,NSW 991126,Calotis glandulosa,148.673,-36.503,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"A Travelling Stock Reserve north of Snowy Valley Way, east of Guises Range, between Dalgety and Jindabyne.",NA,New South Wales,2016,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SPJGI2766572,Calotis glandulosa,148.6730556,-35.695,NA,NA,Asteraceae,NA,NA,NA,Currango Plain,NA,NA,2002,NA,NA,NA,NA,BioNet
+NA,SPJGI3580698,Calotis glandulosa,148.6740357,-35.61840465,NA,NA,Asteraceae,NA,NA,NA,"N side of track between Coolamon homestead and Blue Waterholes, 6.8km E of Long Plain Road on small rise before 2nd grassy plain",NA,NA,2008,NA,NA,NA,NA,BioNet
+NA,SJJSI0663164,Calotis glandulosa,148.67408,-35.61868,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663165,Calotis glandulosa,148.67418,-35.61894,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663166,Calotis glandulosa,148.67439,-35.61917,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663167,Calotis glandulosa,148.67476,-35.61944,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+54d3d3db-3362-42bf-a9c3-c47b646d6cc4,CANB 878339.1,Calotis glandulosa,148.6753,-35.6664,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Mosquito Creek fire trail, approximately 1 km S of Blue Waterhole Saddle.",50,New South Wales,2015,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SEMMI0022591,Calotis glandulosa,148.6755216,-36.50845337,NA,NA,Asteraceae,NA,NA,NA,"Road verge between Jindabyne and Dalgety, Snowy River,",NA,NA,2009,NA,NA,NA,NA,BioNet
+0a2258e8-cc37-43fd-b5e9-2756462dfa57,NSW 845024,Calotis glandulosa,148.675556,-35.666503,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Mosquito Creek Firetrail, ca. 1 km S of Blue Waterhole saddle.",NA,New South Wales,2015,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJJSI0663184,Calotis glandulosa,148.6757,-35.62205,NA,NA,Asteraceae,NA,NA,NA,"Coolamon Plain, plants in doline sinkhole",NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663185,Calotis glandulosa,148.67618,-35.62219,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663186,Calotis glandulosa,148.67938,-35.62192,NA,NA,Asteraceae,NA,NA,NA,Coolamon Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+77fa738a-0a57-48bc-910a-61812a1e5c22,NSW 395272,Calotis glandulosa,148.68,-35.62,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Cooleman Caves area.,10000,New South Wales,1994,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+1e0ba086-b49d-4dee-aefa-04b313aa7784,MEL 2037929A,Calotis glandulosa,148.6833,-35.6167,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Cooleman Caves area.  Kosciusko National Park.,10000,New South Wales,1994,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+b37c5e3a-1f04-4a1c-aa9c-ea2c367c2cf9,CANB 510029.1,Calotis glandulosa,148.6833,-35.5317,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"KNP, above Peppercorn Creek",50,New South Wales,1998,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,NSW395272,Calotis glandulosa,148.6845508,-35.61511384,NA,NA,Asteraceae,NA,NA,NA,Cooleman Caves area.,NA,NA,1994,NA,NA,NA,NA,BioNet
+NA,SEMMI0022592,Calotis glandulosa,148.6866604,-36.513153,NA,NA,Asteraceae,NA,NA,NA,"Road verge between Jindabyne and Dalgety, Snowy River,",NA,NA,2009,NA,NA,NA,NA,BioNet
+NA,SEMMI0022593,Calotis glandulosa,148.6881253,-36.51703637,NA,NA,Asteraceae,NA,NA,NA,"Road verge between Jindabyne and Dalgety, Snowy River,",NA,NA,2009,NA,NA,NA,NA,BioNet
+NA,SJJSI0663142,Calotis glandulosa,148.6916,-35.87617,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663143,Calotis glandulosa,148.69184,-35.87642,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SEMMI0022594,Calotis glandulosa,148.6938321,-36.51981343,NA,NA,Asteraceae,NA,NA,NA,"Road verge between Jindabyne and Dalgety, Snowy River,",NA,NA,2009,NA,NA,NA,NA,BioNet
+NA,SIXRI1216781,Calotis glandulosa,148.693959,-36.520547,NA,NA,Asteraceae,NA,NA,NA,"Liddles TSR, S Boloco - Cobbin Rd, W of 'Top of the Range' driveway.",NA,NA,2016,NA,NA,NA,NA,BioNet
+NA,SCOS1605050J,Calotis glandulosa,148.693959,-36.520547,NA,NA,Asteraceae,NA,NA,NA,"Liddles TSR, S Boloco - Cobbin Rd, W of 'Top of the Range' driveway.",NA,NA,2016,NA,NA,NA,NA,BioNet
+NA,SPJGI0034949,Calotis glandulosa,148.6945931,-35.85657122,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain Specified Reserve: Kosciuszko NP,NA,NA,2001,NA,NA,NA,NA,BioNet
+NA,SJJSI0663145,Calotis glandulosa,148.69586,-35.87971,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663144,Calotis glandulosa,148.69621,-35.87993,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SPJGI5183975,Calotis glandulosa,148.6963452,-36.5207018,NA,NA,Asteraceae,NA,NA,NA,Lidless TSR near site 317,NA,NA,2016,NA,NA,NA,NA,BioNet
+3a889fd7-3738-4732-83e0-dd31c1b30121,NSW 991123,Calotis glandulosa,148.697,-36.52,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Liddles Travelling Stock Reserve, east of entrance to property √¢‚Ç¨ÀúTop of the Range√¢‚Ç¨‚Ñ¢, Guises Range, between Dalgety and Jindabyne.",NA,New South Wales,2016,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SIXRI1216724,Calotis glandulosa,148.697116,-36.520227,NA,NA,Asteraceae,NA,NA,NA,"Liddles TSR, top of Guises Range on Cobbin - Beloco Rd.",NA,NA,2016,NA,NA,NA,NA,BioNet
+a72cdb45-5061-4efe-adb4-091f3fb5ed03,CANB 124022.1,Calotis glandulosa,148.7,-35.6833,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Currango; borders of Cooleman Plain.,10000,New South Wales,1962,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SPJGI0034950,Calotis glandulosa,148.7001187,-35.85604237,NA,NA,Asteraceae,NA,NA,NA,"Nungar Plain, Kosciuszko National Park Specified Reserve: Kosciuszko NP",NA,NA,2001,NA,NA,NA,NA,BioNet
+caee34c8-c233-426a-90de-ee578037cf6b,MEL 2123108A,Calotis glandulosa,148.7006,-35.8561,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Kosciuszko National Park, Nungar Plain, c. 1.5 km SE from where Circuits Hut Fire Trail enters plain from the north.",50,New South Wales,2001,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SPJGI0034952,Calotis glandulosa,148.7039644,-35.85463564,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain Specified Reserve: Kosciuszko NP,NA,NA,2001,NA,NA,NA,NA,BioNet
+NA,SPJGI0034951,Calotis glandulosa,148.7039721,-35.85499613,NA,NA,Asteraceae,NA,NA,NA,Nungar Plain about 1.5 km east of track which crosses the plain Specified Reserve: Kosciuszko NP,NA,NA,2001,NA,NA,NA,NA,BioNet
+5c03c496-5382-4e05-9ca4-0743717f5b66,NSW 568505,Calotis glandulosa,148.706,-35.8233,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Near Tantangera Dam, approx. 2.5 km E of the junction of Gulf Creek fire trail and Gravits Hut fire trail.",10000,New South Wales,1999,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,NSW568505,Calotis glandulosa,148.7067767,-35.82178107,NA,NA,Asteraceae,NA,NA,NA,"Near Tantangera Dam, approx. 2.5 km E of the junction of Gulf Creek fire trail and Gravits Hut fire trail.",NA,NA,1999,NA,NA,NA,NA,BioNet
+NA,SJOC99033003,Calotis glandulosa,148.7103918,-35.87032021,NA,NA,Asteraceae,NA,NA,NA,Crowes Yards Nungar Plain (outside NE corner of old stock yard) Specified Map No: 8626-3-N Specified Reserve: Kosciuszko NP,NA,NA,1999,NA,NA,NA,NA,BioNet
+NA,SEMMI0022595,Calotis glandulosa,148.7285,-36.53764688,NA,NA,Asteraceae,NA,NA,NA,"Road verge between Jindabyne and Dalgety, Snowy River,",NA,NA,2009,NA,NA,NA,NA,BioNet
+b2de16bc-0910-4d3b-932d-f3144f1c1114,NSW 568502,Calotis glandulosa,148.729,-35.7003,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Gurrangorambla Creek, E side, c. 100 m NE from turning circle.",10000,New South Wales,1998,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SDMPI0061048,Calotis glandulosa,148.7299074,-35.67533533,NA,NA,Asteraceae,NA,NA,NA,Currango Plain Specified Reserve: Kosciuszko NP,NA,NA,2003,NA,NA,NA,NA,BioNet
+NA,SJJSI0663137,Calotis glandulosa,148.73036,-35.69882,NA,NA,Asteraceae,NA,NA,NA,Currango Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,NSW568502,Calotis glandulosa,148.7303846,-35.6987248,NA,NA,Asteraceae,NA,NA,NA,"Gurrangorambla Creek, E side, c. 100 m NE from turning circle.",NA,NA,1998,NA,NA,NA,NA,BioNet
+NA,SDMPI0061047,Calotis glandulosa,148.7304876,-35.67406487,NA,NA,Asteraceae,NA,NA,NA,Currango Plain Specified Reserve: Kosciuszko NP,NA,NA,2003,NA,NA,NA,NA,BioNet
+NA,SJJSI0663134,Calotis glandulosa,148.73142000000001,-35.69061,NA,NA,Asteraceae,NA,NA,NA,Currango Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SPJGI2758673,Calotis glandulosa,148.7316104,-35.69038798,NA,NA,Asteraceae,NA,NA,NA,"Currango Plain, Gurrangorambla Creek",NA,NA,2002,NA,NA,NA,NA,BioNet
+NA,SPJGI2762770,Calotis glandulosa,148.7324531,-35.69008088,NA,NA,Asteraceae,NA,NA,NA,Gurrangorambla Creek,NA,NA,2003,NA,NA,NA,NA,BioNet
+NA,SPJGI2762742,Calotis glandulosa,148.7324531,-35.69008088,NA,NA,Asteraceae,NA,NA,NA,Gurrangorambla Creek,NA,NA,2002,NA,NA,NA,NA,BioNet
+NA,SJJSI0663135,Calotis glandulosa,148.73249,-35.68998,NA,NA,Asteraceae,NA,NA,NA,Currango Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663136,Calotis glandulosa,148.73265,-35.69009,NA,NA,Asteraceae,NA,NA,NA,Currango Plain,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SPJGI4982997,Calotis glandulosa,148.7333969,-36.04779714,NA,NA,Asteraceae,NA,NA,NA,Adaminaby Old Cemetery LOCATION DETAILS: Shores of Eucumbene,NA,NA,2001,NA,NA,NA,NA,BioNet
+NA,SPJGI4982972,Calotis glandulosa,148.7333969,-36.04779714,NA,NA,Asteraceae,NA,NA,NA,Adaminaby Old Cemetery LOCATION DETAILS: Shores of Eucumbene,NA,NA,1999,NA,NA,NA,NA,BioNet
+NA,SPJGI4982913,Calotis glandulosa,148.7333969,-36.04779714,NA,NA,Asteraceae,NA,NA,NA,Adaminaby Old Cemetery LOCATION DETAILS: Shores of Eucumbene,NA,NA,1997,NA,NA,NA,NA,BioNet
+NA,SPJGI5059160,Calotis glandulosa,148.737873,-36.53630474,NA,NA,Asteraceae,NA,NA,NA,"Beloka Cemetery (SJCem6) LOCATION DETAILS: On road from Dalgety-Jindabyne, 10 km SW of Dalgety Area in ha: 4",NA,NA,1992,NA,NA,NA,NA,BioNet
+NA,SPJGI4986073,Calotis glandulosa,148.737873,-36.53630474,NA,NA,Asteraceae,NA,NA,NA,Beloka Cemetery LOCATION DETAILS: 9km SW of Dalgety Area in ha: 4,NA,NA,1995,NA,NA,NA,NA,BioNet
+NA,SPJGI4986151,Calotis glandulosa,148.737873,-36.53630474,NA,NA,Asteraceae,NA,NA,NA,Beloka Cemetery LOCATION DETAILS: 9km SW of Dalgety Area in ha: 4,NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SPJGI4986192,Calotis glandulosa,148.737873,-36.53630474,NA,NA,Asteraceae,NA,NA,NA,Beloka Cemetery LOCATION DETAILS: 9km SW of Dalgety Area in ha: 4,NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SPJGI4986000,Calotis glandulosa,148.737873,-36.53630474,NA,NA,Asteraceae,NA,NA,NA,Beloka Cemetery LOCATION DETAILS: 9km SW of Dalgety Area in ha: 4,NA,NA,1995,NA,NA,NA,NA,BioNet
+NA,SPJGI4851842,Calotis glandulosa,148.737873,-36.53630474,NA,NA,Asteraceae,NA,NA,NA,Beloka Cemetery (MonAR03) LOCATION DETAILS: 9 km south west of Dalgety Area in ha: 4,NA,NA,1992,NA,NA,NA,NA,BioNet
+NA,SPJGI2412454,Calotis glandulosa,148.7405414,-36.53514259,NA,NA,Asteraceae,NA,NA,NA,9 km SW of Dalgety in the middle of the cemetery.,NA,NA,1991,NA,NA,NA,NA,BioNet
+NA,8518-HOR,Calotis glandulosa,148.7405629,-36.53514848,NA,NA,Asteraceae,NA,NA,NA,"Beloka cemetry; Beloka, west of Dalgety. Site 356 Monaro Grassland Survey Specified Map No: 8624",NA,NA,1991,NA,NA,NA,NA,BioNet
+0ea3246d-0d60-4550-9692-7d8e164e0f57,NSW 275575,Calotis glandulosa,148.743,-36.5386,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Bemboka Cemetery Bemboka, west of Dalgety.",50,New South Wales,1991,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+c20b5317-aa51-4e4b-9c66-761e60a085e3,MEL 0287195A,Calotis glandulosa,148.7439,-36.5381,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Boloko [=Beloka] cemetery.,1000,New South Wales,1994,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+907048d3-3601-4b43-b637-142d68ab1dc9,NSW 369556,Calotis glandulosa,148.744,-36.5381,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Boloko cemetery. Nearest place name Beloka. [Note spelling],50,New South Wales,1994,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+c1881113-c742-4fe9-be43-7ca13db501b0,NSW 369557,Calotis glandulosa,148.744,-36.5381,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Boloko cemetery. Nearest place name Beloka. [Note spelling],50,New South Wales,1994,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,NSW275575,Calotis glandulosa,148.7445686,-36.53706185,NA,NA,Asteraceae,NA,NA,NA,"Bemboka Cemetery Bemboka, west of Dalgety.",NA,NA,1991,NA,NA,NA,NA,BioNet
+NA,SIXRI1216684,Calotis glandulosa,148.744733,-36.536982,NA,NA,Asteraceae,NA,NA,NA,"Boloko TSR, slope c. 300m SE of church",NA,NA,2016,NA,NA,NA,NA,BioNet
+18710f05-2a16-4f9e-865a-b2d2178ecab3,NSW 991125,Calotis glandulosa,148.745,-36.537,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Beloka Travelling Stock Reserve, c. 300m SE of church, between Dalgety and Jindabyne.",NA,New South Wales,2016,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,NSW369556,Calotis glandulosa,148.7451241,-36.53650629,NA,NA,Asteraceae,NA,NA,NA,Boloko cemetery. Nearest place name Beloka. [Note spelling],NA,NA,1994,NA,NA,NA,NA,BioNet
+NA,NSW369557,Calotis glandulosa,148.7451241,-36.53650629,NA,NA,Asteraceae,NA,NA,NA,Boloko cemetery. Nearest place name Beloka. [Note spelling],NA,NA,1994,NA,NA,NA,NA,BioNet
+NA,SPJGI4902622,Calotis glandulosa,148.7478005,-36.36016984,NA,NA,Asteraceae,NA,NA,NA,Kosciuszko Road road reserve (opposite Glenrowan entrance) 1 ha site LOCATION DETAILS: between 0.5 and 0.3km West of Iron Pot Creek Bridge,NA,NA,2002,NA,NA,NA,NA,BioNet
+NA,SJJSI0663125,Calotis glandulosa,148.74893,-36.0879,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SPJGI2458640,Calotis glandulosa,148.7499889,-36.35923085,NA,NA,Asteraceae,NA,NA,NA,"TSR 34 at Ironpot Creek S-E of highway, c. 6km west of Berridale (between Berridale & Jindabyne)",NA,NA,1998,NA,NA,NA,NA,BioNet
+ef8a8f9f-ed1e-4d5c-8c82-4cd180f46065,CBG 8600467.1,Calotis glandulosa,148.75,-36.35,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Varneys Range, 21.2 km E of Jindabyne on the Jindabyne-Berridale road.",1000,New South Wales,1986,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJJSI0663124,Calotis glandulosa,148.75007,-36.08812,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663123,Calotis glandulosa,148.75012,-36.08828,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SPJGI4898425,Calotis glandulosa,148.7559233,-36.52936998,NA,NA,Asteraceae,NA,NA,NA,Dalgety to Beloco Road road reserve,NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SJJSI0663126,Calotis glandulosa,148.7566,-36.08894,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663127,Calotis glandulosa,148.75854,-36.08981,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+37823771-ae43-45a3-a42f-286c6d98251f,MEL 0258145A,Calotis glandulosa,148.7597,-35.9064,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Adaminaby to Yaouk road through 'Fontenoy', 10 km directly N of Adaminaby.  Grid Ref: 6 588 60 250.",1000,New South Wales,1996,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJJSI0663128,Calotis glandulosa,148.76069,-36.09107,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663129,Calotis glandulosa,148.76597,-36.0941,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+81887e72-8569-42d1-a52e-b486eee09118,CANB 526253.1,Calotis glandulosa,148.7667,-36.25,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"14 km N of Berridale on Adaminaby Road, Travelling Stock Reserve 20, roadside paddock 2 km NW of 'Yambirika'.",1000,New South Wales,1998,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+86968b55-daf7-4d74-8c84-47b1edfd5a1b,CANB 644384.1,Calotis glandulosa,148.7667,-35.9583,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,'Rockleigh' entrance track 600 m from Adaminaby-Yaouk Road.,200,New South Wales,1996,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+0b5fed40-3425-4782-8fd2-429cc0259bd2,CANB 644383.1,Calotis glandulosa,148.7667,-35.95,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Yaouk to Adaminaby Road, 'Rockleigh', 100 m N of entrance to 'Milroy'.",1000,New South Wales,1996,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+ddc6cf14-8d4b-4c21-a64d-b6506287fa8c,CBG 9612879.1,Calotis glandulosa,148.7667,-35.9083,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Adaminaby to Yaouk road through `Fontenoy', 10 km directly N of Adaminaby. Grid ref.: 6 588 60 250",1000,New South Wales,1996,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,NSW500635,Calotis glandulosa,148.7678881,-35.90678017,NA,NA,Asteraceae,NA,NA,NA,"Adaminaby to Yaouk road through `Fontenoy', 10 km directly N of Adaminaby. Grid ref.: 6 588 60 250",NA,NA,1996,NA,NA,NA,NA,BioNet
+7e603ad9-2a03-46d2-838a-6fa5c7bdb133,NSW 500635,Calotis glandulosa,148.77,-35.9083,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Adaminaby to Yaouk road through `Fontenoy', 10 km directly N of Adaminaby. Grid ref.: 6 588 60 250",1000,New South Wales,1996,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SJJSI0663110,Calotis glandulosa,148.7713,-36.10374,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663109,Calotis glandulosa,148.77136,-36.10372,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663108,Calotis glandulosa,148.7715,-36.10368,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663107,Calotis glandulosa,148.77175,-36.10403,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663111,Calotis glandulosa,148.77181,-36.10353,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663119,Calotis glandulosa,148.77181,-36.10002,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663120,Calotis glandulosa,148.77187,-36.09984,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663106,Calotis glandulosa,148.77191,-36.10392,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663112,Calotis glandulosa,148.77201,-36.10349,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663133,Calotis glandulosa,148.77201,-36.10028,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SPJGI5056593,Calotis glandulosa,148.7720143,-36.10020163,NA,NA,Asteraceae,NA,NA,NA,Wallace Island freehold (site 4) LOCATION DETAILS: Eastern Lake Eucumbene,NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SJJSI0663121,Calotis glandulosa,148.77206,-36.09925,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663118,Calotis glandulosa,148.77216,-36.0996,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663113,Calotis glandulosa,148.77217,-36.10341,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663122,Calotis glandulosa,148.77218,-36.09929,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663117,Calotis glandulosa,148.7722,-36.09959,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663105,Calotis glandulosa,148.77228,-36.10383,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663114,Calotis glandulosa,148.77252,-36.10344,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663103,Calotis glandulosa,148.77254,-36.10348,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663104,Calotis glandulosa,148.77256,-36.10363,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663116,Calotis glandulosa,148.77262,-36.09964,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663115,Calotis glandulosa,148.77279,-36.09961,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663101,Calotis glandulosa,148.77338,-36.10471,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663102,Calotis glandulosa,148.7736,-36.10464,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663100,Calotis glandulosa,148.77429,-36.10496,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663099,Calotis glandulosa,148.7743,-36.10472,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663098,Calotis glandulosa,148.77475,-36.10464,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663097,Calotis glandulosa,148.7749,-36.10463,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663096,Calotis glandulosa,148.7751,-36.10457,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,NSW66364,Calotis glandulosa,148.775294,-35.94960885,NA,NA,Asteraceae,NA,NA,NA,"Borders of Cooleman Plain, near Kiandra. Currango sheet 660 020.",NA,NA,1962,NA,NA,NA,NA,BioNet
+NA,SJJSI0663095,Calotis glandulosa,148.77531,-36.10482,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663085,Calotis glandulosa,148.77758,-36.10451,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SPJGI5056529,Calotis glandulosa,148.7776679,-36.10462509,NA,NA,Asteraceae,NA,NA,NA,Wallace Island freehold (site 3) LOCATION DETAILS: Eastern Lake Eucumbene,NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SJJSI0663131,Calotis glandulosa,148.77767,-36.10471,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663092,Calotis glandulosa,148.77815,-36.10414,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663093,Calotis glandulosa,148.77816,-36.10388,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663094,Calotis glandulosa,148.77823,-36.10341,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663086,Calotis glandulosa,148.77834,-36.10433,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663091,Calotis glandulosa,148.77917,-36.10407,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663087,Calotis glandulosa,148.77921,-36.10418,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663088,Calotis glandulosa,148.77923,-36.1041,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663090,Calotis glandulosa,148.77936,-36.10394,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SJJSI0663132,Calotis glandulosa,148.77987,-36.10459,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SPJGI5056470,Calotis glandulosa,148.7798888,-36.10459211,NA,NA,Asteraceae,NA,NA,NA,Wallace Island freehold (site 2) LOCATION DETAILS: Eastern Lake Eucumbene,NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SJJSI0663089,Calotis glandulosa,148.77994,-36.10409,NA,NA,Asteraceae,NA,NA,NA,Wallace Island,NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,STOE12050700,Calotis glandulosa,148.7800797,-35.99131273,NA,NA,Asteraceae,NA,NA,NA,North east face of Water tower land,NA,NA,2012,NA,NA,NA,NA,BioNet
+NA,SPJGI4991951,Calotis glandulosa,148.7800797,-35.99131278,NA,NA,Asteraceae,NA,NA,NA,"Snowy River Shire LEP Crown Land Investigation (Site 2) Near Water Reservoir LOCATION DETAILS: On crest of hill overlooking Adaminaby, around reservoir",NA,NA,2012,NA,NA,NA,NA,BioNet
+NA,SPJGI4952137,Calotis glandulosa,148.7805898,-36.00758555,NA,NA,Asteraceae,NA,NA,NA,"Happy Valley freehold LOCATION DETAILS: Happy Valley, South of Adaminaby Cemetery on Yens Cove Road (West-facing ridge overlooking homestead)",NA,NA,1996,NA,NA,NA,NA,BioNet
+NA,SPJGI4900461,Calotis glandulosa,148.7806632,-36.00591677,NA,NA,Asteraceae,NA,NA,NA,"Happy Valley road reserve LOCATION DETAILS: Roadside adjacent to Happy Valley, South of Adaminaby",NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,STOE12050702,Calotis glandulosa,148.7814042,-35.99250102,NA,NA,Asteraceae,NA,NA,NA,Approximately 50m SE of water tanks,NA,NA,2012,NA,NA,NA,NA,BioNet
+NA,SPJGI2458769,Calotis glandulosa,148.7821038,-36.25238886,NA,NA,Asteraceae,NA,NA,NA,"14km North Berridale on Adaminaby Road TSR 20 - Roadside paddock 2 km NW ""Yambirika'",NA,NA,1998,NA,NA,NA,NA,BioNet
+NA,SJJSI0740475,Calotis glandulosa,148.7826779,-35.99380071,NA,NA,Asteraceae,NA,NA,NA,DP729876 - section of this lot closest to the Adaminabby STP site.,NA,NA,2017,NA,NA,NA,NA,BioNet
+65032d14-642a-48f1-82fc-b4b8517f02a6,CBG 8001872.1,Calotis glandulosa,148.7833,-36.35,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Varney's Range, 8 km from Berridale towards Jindabyne.",1000,New South Wales,1974,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+a970b62d-047a-41a3-ada4-192088869cac,CBG 8001870.1,Calotis glandulosa,148.7833,-36.35,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Varney's Range, 8 km from Berridale towards Jindabyne.",1000,New South Wales,1974,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+4fdd741a-81e2-4586-9ee4-480c3b36a7bd,MEL 0117589A,Calotis glandulosa,148.7833,-36.35,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Varneys Range, 8 km from Berridale towards Jindabyne.",10000,New South Wales,1988,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+41fd58ac-6ae9-4b94-8d99-9f666713e6a7,CBG 8001972.1,Calotis glandulosa,148.7833,-36.35,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Varney's Range, N side of road between Jindabyne and Berridale.",1000,New South Wales,1980,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+bcd84231-1d35-4935-903d-6b560fe8a4f6,CBG 8800384.1,Calotis glandulosa,148.7833,-36.35,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Varneys Range, 8 km from Berridale towards Jindabyne, roadside cutting.",1000,New South Wales,1988,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,951,Calotis glandulosa,148.7845573,-36.34845904,NA,NA,Asteraceae,NA,NA,NA,"8km from Berridale, Barneys Range, towards Jindabyne Specified Map No: 8625",NA,NA,1974,NA,NA,NA,NA,BioNet
+NA,SPJGI4982847,Calotis glandulosa,148.7866672,-36.00058999,NA,NA,Asteraceae,NA,NA,NA,"Adaminaby New Cemetery LOCATION DETAILS: West of Cemetery Road, South of Snowy Mountains Highway, east of Adaminaby Area in ha: <4",NA,NA,1995,NA,NA,NA,NA,BioNet
+NA,SPJGI4985861,Calotis glandulosa,148.7875009,-35.99918932,NA,NA,Asteraceae,NA,NA,NA,"Before Adaminaby Cemetery TSR (no. 10) LOCATION DETAILS: 1.5km east of Adaminaby, SW corner of junction between Cemetery Road and Snowy Mountains Highway Area in ha: 10?",NA,NA,1995,NA,NA,NA,NA,BioNet
+NA,SPJGI4983053,Calotis glandulosa,148.7886668,-36.00169602,NA,NA,Asteraceae,NA,NA,NA,"Adaminaby Saleyards TSR (no. 9) LOCATION DETAILS: 1.5km east of Adaminaby. Eastern corner of junction of Snowy Mountains Highway and Cemetery Road, opposite cemetery Area in ha: 8? (AR), 60? (BJ)",NA,NA,1995,NA,NA,NA,NA,BioNet
+NA,SPJGI5056399,Calotis glandulosa,148.7898421,-36.10264091,NA,NA,Asteraceae,NA,NA,NA,Wallace Island freehold (site 1) LOCATION DETAILS: Eastern Lake Eucumbene,NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SJJSI0663130,Calotis glandulosa,148.79025,-36.1031,NA,NA,Asteraceae,NA,NA,NA,"Wallace Island, diffuse population around Eucalyptus lacrimans knoll",NA,NA,2018,NA,NA,NA,NA,BioNet
+NA,SPJGI4982783,Calotis glandulosa,148.7908645,-36.00076176,NA,NA,Asteraceae,NA,NA,NA,Adaminaby Golf Course (site 1) LOCATION DETAILS: East of TSRs at Adaminaby on road to Cooma,NA,NA,1997,NA,NA,NA,NA,BioNet
+NA,SPJGI4946167,Calotis glandulosa,148.7930406,-35.99544671,NA,NA,Asteraceae,NA,NA,NA,"Adaminaby Hill freehold LOCATION DETAILS: 2km east of Adaminaby, West of Yaouk to Bolero Road Area in ha: 5?",NA,NA,1995,NA,NA,NA,NA,BioNet
+NA,SJJSI0622479,Calotis glandulosa,148.8184624,-36.36660612,NA,NA,Asteraceae,NA,NA,NA,"34 Gungarlin Street, Berridale",NA,NA,2017,NA,NA,NA,NA,BioNet
+de7ea739-9efa-4c6f-aea1-972a380f56b8,CBG 13321.1,Calotis glandulosa,148.8333,-36.3667,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Near Berridale.,10000,New South Wales,1955,PreservedSpecimen,el865,noIssue,TRUE,Australia's Virtual Herbarium
+db802ef1-89f3-4571-99a8-bbc72046276a,CANB 271995.1,Calotis glandulosa,148.8333,-36.1667,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Lake Eucumbene.,NA,New South Wales,1971,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SPJGI2452125,Calotis glandulosa,148.8335704,-36.04923978,NA,NA,Asteraceae,NA,NA,NA,7.7km SE of Bolairo Road/ Snowy Mountains highway junction on road to Cooma,NA,NA,1999,NA,NA,NA,NA,BioNet
+NA,952,Calotis glandulosa,148.8345512,-36.1651194,NA,NA,Asteraceae,NA,NA,NA,"Lake Eucumbene, nr W bank Specified Map No: 8625",NA,NA,1971,NA,NA,NA,NA,BioNet
+NA,SPJGI2458949,Calotis glandulosa,148.8443119,-36.05763868,NA,NA,Asteraceae,NA,NA,NA,"Road verge between Adaminaby and Cooma on Snowy Mountians Highway, 2.8km S-E Caddigat Road and 1.5km west Bolaro Road",NA,NA,1998,NA,NA,NA,NA,BioNet
+NA,SPJGI4972476,Calotis glandulosa,148.855009,-36.37553533,NA,NA,Asteraceae,NA,NA,NA,Gegedzerick TSR (no. 50) lower site (1 ha site) LOCATION DETAILS: Footslope below Church,NA,NA,2005,NA,NA,NA,NA,BioNet
+NA,SPJGI4865295,Calotis glandulosa,148.865899,-36.44078859,NA,NA,Asteraceae,NA,NA,NA,Dutton TSR (no. 51) plot LOCATION DETAILS: TSR between Dalgety and Berridale,NA,NA,2005,NA,NA,NA,NA,BioNet
+35cf1767-9898-4392-8e44-396a82d6bef0,CBG 9809044.1,Calotis glandulosa,148.8667,-36.15,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Intersection of Snowy Mtn Hwy and track to Frying Pan Creek, on the track side.",1000,New South Wales,1998,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SPJGI5183949,Calotis glandulosa,148.8668325,-36.0741831,NA,NA,Asteraceae,NA,NA,NA,Snowy mtns hwy verge at Queensgallery TSR gate,NA,NA,2016,NA,NA,NA,NA,BioNet
+NA,SPJGI5030369,Calotis glandulosa,148.868472,-36.07385632,NA,NA,Asteraceae,NA,NA,NA,"Queensgallery TSR (no. 7) LOCATION DETAILS: 13.5km from Adaminaby, north side of road",NA,NA,2002,NA,NA,NA,NA,BioNet
+411feb8f-8fa8-400b-8ad9-7cc4b020c397,NE 102092,Calotis glandulosa,148.8754167,-36.09519444,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Snowy Mountains Highway, 16.3 km from Adaminiby towards Cooma",NA,New South Wales,2015,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,947,Calotis glandulosa,148.8787138,-36.10344348,NA,NA,Asteraceae,NA,NA,NA,"Between New Adaminaby & Cooma, nr Dry Plains turnoff Specified Map No: 8625",NA,NA,1958,NA,NA,NA,NA,BioNet
+NA,SPJGI4898811,Calotis glandulosa,148.8810627,-36.10363189,NA,NA,Asteraceae,NA,NA,NA,"Dry Plain road reserve (site 1) LOCATION DETAILS: South side of Dry Plains Road, East of Snowy Mountains Highway. 100m from Highway turnoff.",NA,NA,1997,NA,NA,NA,NA,BioNet
+NA,SPJGI4925960,Calotis glandulosa,148.8837765,-36.12051805,NA,NA,Asteraceae,NA,NA,NA,"Adaminaby Road west of Berridale crossing plot LOCATION DETAILS: Adaminaby Rd, W of Berridale crossing",NA,NA,2005,NA,NA,NA,NA,BioNet
+NA,SPJGI5183849,Calotis glandulosa,148.8862695,-36.13931238,NA,NA,Asteraceae,NA,NA,NA,Murrow TSR back side above creek,NA,NA,2016,NA,NA,NA,NA,BioNet
+NA,SIXRI1216450,Calotis glandulosa,148.887706,-36.138245,NA,NA,Asteraceae,NA,NA,NA,"Murrow TSR, S side of Top Hut Ck, c. 400m W of Snowy Mountains Highway.",NA,NA,2016,NA,NA,NA,NA,BioNet
+NA,SCOS1605080Y,Calotis glandulosa,148.887706,-36.138245,NA,NA,Asteraceae,NA,NA,NA,"Murrow TSR, S side of Top Hut Ck, c. 400m W of Snowy Mountains Highway.",NA,NA,2016,NA,NA,NA,NA,BioNet
+f95b1e67-32b3-4af9-b285-901485a08c20,NSW 991124,Calotis glandulosa,148.888,-36.138,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Locality details: NW facing slope above Top Hut Creek on Murroo Travelling Stock Reserve, c. 400m W of Snowy Mountains Highway between Cooma and Adaminaby.",NA,New South Wales,2016,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SIXRI1216405,Calotis glandulosa,148.890763,-36.137095,NA,NA,Asteraceae,NA,NA,NA,"Murrow TSR, NE cnr 200m S of Top Hut Ck bridge on Snowy Mtns Hwy",NA,NA,2016,NA,NA,NA,NA,BioNet
+NA,SPJGI4906636,Calotis glandulosa,148.8935911,-36.1904667,NA,NA,Asteraceae,NA,NA,NA,Rhinefalls TSR (no. 4) road reserve LOCATION DETAILS: South side of road reserve on Rhine Falls Road off Snowy Mountains Highway,NA,NA,1996,NA,NA,NA,NA,BioNet
+d2fc212e-b608-446d-990b-2668e9b1c0dc,NSW 885515,Calotis glandulosa,148.895,-36.183,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Rhine Falls TSR, 80 m west of Snowy Mountains Highway on SE facing footslope immediately above Sheep Station Creek.",NA,New South Wales,2011,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SPJGI4353436,Calotis glandulosa,148.8950891,-36.18295222,NA,NA,Asteraceae,NA,NA,NA,"Rhine Falls TSR; plot is approx 80m west of Snowy Mountains Hwy, on southeast facing footslope immediately above Sheep Station Creek",NA,NA,2011,NA,NA,NA,NA,BioNet
+NA,SPJGI4898872,Calotis glandulosa,148.8956549,-36.10208576,NA,NA,Asteraceae,NA,NA,NA,"Dry Plain road reserve (site 2) LOCATION DETAILS: South side of Dry Plains Road, East of Snowy Mountains Highway",NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SPJGI4898830,Calotis glandulosa,148.8956549,-36.10208576,NA,NA,Asteraceae,NA,NA,NA,"Dry Plain road reserve (site 2) LOCATION DETAILS: South side of Dry Plains Road, East of Snowy Mountains Highway",NA,NA,1997,NA,NA,NA,NA,BioNet
+87b6784d-4452-420f-8393-0eba398ab1f8,CANB 641358.1,Calotis glandulosa,148.9117,-36.1147,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Dry Plains Bushfire Brigade shed area, west of Cooma.",50,New South Wales,2002,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+68f17e6f-22e3-4409-8390-e33e12193472,NSW 623967,Calotis glandulosa,148.912,-36.1147,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Dry Plains Bushfire Brigade shed area W of Cooma.,500,New South Wales,2002,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SPJGI2459366,Calotis glandulosa,148.9128264,-36.11335461,NA,NA,Asteraceae,NA,NA,NA,"Dry Plains TSR, Dry Plains Road (Off Adaminaby Road), Behind Fire Shed",NA,NA,1998,NA,NA,NA,NA,BioNet
+NA,NSW623967,Calotis glandulosa,148.9128907,-36.11316949,NA,NA,Asteraceae,NA,NA,NA,Dry Plains Bushfire Brigade shed area W of Cooma.,NA,NA,2002,NA,NA,NA,NA,BioNet
+NA,SPJGI4890721,Calotis glandulosa,148.913729,-36.1140577,NA,NA,Asteraceae,NA,NA,NA,Top Hut TSR (no. 6) south paddock (plot 1) LOCATION DETAILS: near gate,NA,NA,2005,NA,NA,NA,NA,BioNet
+NA,SPJGI4890773,Calotis glandulosa,148.9141211,-36.11373594,NA,NA,Asteraceae,NA,NA,NA,Top Hut TSR (no. 6) south paddock (plot 2) LOCATION DETAILS: Top Hut TSR,NA,NA,2005,NA,NA,NA,NA,BioNet
+NA,SPJGI4890677,Calotis glandulosa,148.9154152,-36.11349891,NA,NA,Asteraceae,NA,NA,NA,Top Hut TSR (no. 6) north paddock (plot) LOCATION DETAILS: w paddock,NA,NA,2005,NA,NA,NA,NA,BioNet
+NA,SPJGI4927532,Calotis glandulosa,148.9240738,-36.12141881,NA,NA,Asteraceae,NA,NA,NA,Dry Plains Road (Lugarno Rd) plot LOCATION DETAILS: s side,NA,NA,2005,NA,NA,NA,NA,BioNet
+NA,SPJGI4927519,Calotis glandulosa,148.9413322,-36.13420179,NA,NA,Asteraceae,NA,NA,NA,"Dry Plain Road plot 5 LOCATION DETAILS: top of range, sec gl",NA,NA,2005,NA,NA,NA,NA,BioNet
+8f695f23-b694-48bd-826a-7796fce268d1,CANB 604496.1,Calotis glandulosa,148.9833,-36.55,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Maffra Lake Travelling Stock Reserve, 36km directly SSE of Cooma.",1000,New South Wales,1995,PreservedSpecimen,el865,noIssue,TRUE,Australia's Virtual Herbarium
+c7b30a3b-acd6-4304-8a51-d3eb065d67b4,MEL 0305035A,Calotis glandulosa,148.9833333,-36.55,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Maffra Lake Travelling Stock Reserve, 36 km directly SSE of Cooma.",10000,New South Wales,1995,PreservedSpecimen,el865,noIssue,TRUE,Australia's Virtual Herbarium
+07c83858-96a7-481c-93a0-e799e68f0edc,NSW 391123,Calotis glandulosa,148.988,-36.5456,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Just inside fence off Bombala-Dalgety Road.,1000,New South Wales,1995,PreservedSpecimen,el865,noIssue,TRUE,Australia's Virtual Herbarium
+NA,NSW391123,Calotis glandulosa,148.9887317,-36.54400453,NA,NA,Asteraceae,NA,NA,NA,Just inside fence off Bombala-Dalgety Road.,NA,NA,1995,NA,NA,NA,NA,BioNet
+NA,SPJGI4866915,Calotis glandulosa,148.9907257,-36.54294173,NA,NA,Asteraceae,NA,NA,NA,Maffra Lake TSR (no. 55) AR plot 3 LOCATION DETAILS: Between lake bed and road fence,NA,NA,2005,NA,NA,NA,NA,BioNet
+NA,SPJGI5019315,Calotis glandulosa,148.99086930000001,-36.54505751,NA,NA,Asteraceae,NA,NA,NA,"Maffra Lake TSR (no. 55) LOCATION DETAILS: 14km SE of Dalgety, South of Dalgety/ Nimmitabel Road, enclosing Maffra Lake Area in ha: c 25",NA,NA,1995,NA,NA,NA,NA,BioNet
+NA,SPJGI5019365,Calotis glandulosa,148.99086930000001,-36.54505751,NA,NA,Asteraceae,NA,NA,NA,"Maffra Lake TSR (no. 55) LOCATION DETAILS: 14km SE of Dalgety, South of Dalgety/ Nimmitabel Road, enclosing Maffra Lake Area in ha: c 25",NA,NA,1997,NA,NA,NA,NA,BioNet
+NA,SPJGI4870305,Calotis glandulosa,148.9937242,-36.54400028,NA,NA,Asteraceae,NA,NA,NA,Maffra Lake TSR (no. 55) grassland RR plot 2 LOCATION DETAILS: Maffra (Lake bed 3?),NA,NA,2003,NA,NA,NA,NA,BioNet
+7596e26d-c4ee-4bdf-bae4-84834000e167,NSW 277894,Calotis glandulosa,149,-36.25,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Adaminaby-Cooma rd.,25000,New South Wales,1966,PreservedSpecimen,el865,noIssue,TRUE,Australia's Virtual Herbarium
+NA,NSW277894,Calotis glandulosa,149.0012261,-36.24844845,NA,NA,Asteraceae,NA,NA,NA,Adaminaby-Cooma rd.,NA,NA,1966,NA,NA,NA,NA,BioNet
+NA,SPJGI5042234,Calotis glandulosa,149.0392004,-36.08062715,NA,NA,Asteraceae,NA,NA,NA,"Thirteen Mile Shannons Flat Road TSR (no. 98) LOCATION DETAILS: 13 Mile Shannons Flat Road, North of intersection with Murrumbucca Road",NA,NA,1998,NA,NA,NA,NA,BioNet
+NA,SPJGI5042305,Calotis glandulosa,149.0392004,-36.08062715,NA,NA,Asteraceae,NA,NA,NA,"Thirteen Mile Shannons Flat Road TSR (no. 98) LOCATION DETAILS: 13 Mile Shannons Flat Road, North of intersection with Murrumbucca Road",NA,NA,1999,NA,NA,NA,NA,BioNet
+NA,SPJGI5003987,Calotis glandulosa,149.043519,-36.41767077,NA,NA,Asteraceae,NA,NA,NA,"Fifteen Mile Bobundara Road TSR (no. 58) Ravensworth LOCATION DETAILS: 22km SSW of Cooma, East of Cooma-Dalgety Road; Transect parallel to road from entrance under powerlines for approximately 150 metres (along ridge) Area in ha: 45",NA,NA,1995,NA,NA,NA,NA,BioNet
+NA,SPJGI5004165,Calotis glandulosa,149.043519,-36.41767077,NA,NA,Asteraceae,NA,NA,NA,"Fifteen Mile Bobundara Road TSR (no. 58) Ravensworth LOCATION DETAILS: 22km SSW of Cooma, East of Cooma-Dalgety Road; Transect parallel to road from entrance under powerlines for approximately 150 metres (along ridge) Area in ha: 45",NA,NA,2011,NA,NA,NA,NA,BioNet
+NA,SPJGI5004120,Calotis glandulosa,149.043519,-36.41767077,NA,NA,Asteraceae,NA,NA,NA,"Fifteen Mile Bobundara Road TSR (no. 58) Ravensworth LOCATION DETAILS: 22km SSW of Cooma, East of Cooma-Dalgety Road; Transect parallel to road from entrance under powerlines for approximately 150 metres (along ridge) Area in ha: 45",NA,NA,1998,NA,NA,NA,NA,BioNet
+NA,SPJGI4852245,Calotis glandulosa,149.0445864,-36.41584977,NA,NA,Asteraceae,NA,NA,NA,"Ravensworth Travelling Stock Reserve (MonAR17) LOCATION DETAILS: 22km south south-west of Cooma, East of Cooma-Dalgety Rd. Area in ha: 45",NA,NA,1992,NA,NA,NA,NA,BioNet
+NA,SPJGI2459407,Calotis glandulosa,149.0467843,-36.41535624,NA,NA,Asteraceae,NA,NA,NA,ravensworth TSR 21.7 km South of Cooma on Boundara Road ( On east facing slope near eastern Boundary),NA,NA,1998,NA,NA,NA,NA,BioNet
+NA,SPJGI5023875,Calotis glandulosa,149.0779575,-36.24491524,NA,NA,Asteraceae,NA,NA,NA,"Mount Gladstone Reserve LOCATION DETAILS: RFA site survey - 8680, Mt Gladstone Reserve, on Snowy Mountains Highway, West of Cooma",NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SPJGI5029121,Calotis glandulosa,149.0856474,-36.24117586,NA,NA,Asteraceae,NA,NA,NA,Pine Valley TSR (no. 39) western section LOCATION DETAILS: Snowy Mountains Highway west of Cooma,NA,NA,1999,NA,NA,NA,NA,BioNet
+NA,SPJGI4872395,Calotis glandulosa,149.0858642,-36.24179403,NA,NA,Asteraceae,NA,NA,NA,"Pine Valley TSR (no. 39) plot 2 LOCATION DETAILS: TSR W of Cooma, Mt Gladstone 2",NA,NA,2003,NA,NA,NA,NA,BioNet
+NA,944,Calotis glandulosa,149.0877209,-36.23754498,NA,NA,Asteraceae,NA,NA,NA,Adaminaby-Cooma Rd Specified Map No: 8725,NA,NA,1966,NA,NA,NA,NA,BioNet
+b1d55e48-5f3e-47db-891c-c64e9cce1445,CBG 13269.1,Calotis glandulosa,149.1167,-36.2167,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Cooma.,3000,New South Wales,1954,PreservedSpecimen,el865,noIssue,TRUE,Australia's Virtual Herbarium
+c80c0c87-2155-421c-83bf-00da4748ca19,CBG 13314.1,Calotis glandulosa,149.1167,-36.2167,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Cooma.,3000,New South Wales,1952,PreservedSpecimen,el865,noIssue,TRUE,Australia's Virtual Herbarium
+a99b9d26-b027-41da-9a2c-334909cc050f,CBG 13313.1,Calotis glandulosa,149.1167,-36.2167,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Cooma.,3000,New South Wales,1952,PreservedSpecimen,el865,noIssue,TRUE,Australia's Virtual Herbarium
+NA,950,Calotis glandulosa,149.1265201,-36.23224629,NA,NA,Asteraceae,NA,NA,NA,Cooma Specified Map No: 8725,NA,NA,1952,NA,NA,NA,NA,BioNet
+NA,SJJSI0185781,Calotis glandulosa,149.1304924,-36.20488722,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SDMPI0130075,Calotis glandulosa,149.1308613,-36.20916327,NA,NA,Asteraceae,NA,NA,NA,"ridge S of Yallakool Road, c. 200m E of Mittagang Rd, North Cooma outskirts",NA,NA,2006,NA,NA,NA,NA,BioNet
+NA,SJJSI0185780,Calotis glandulosa,149.1312925,-36.20797999,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SJJSI0185779,Calotis glandulosa,149.1316934,-36.2077338,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SJJSI0185776,Calotis glandulosa,149.1319405,-36.20751563,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SJJSI0185774,Calotis glandulosa,149.131957,-36.20748898,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SJJSI0185775,Calotis glandulosa,149.1319853,-36.20764086,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SJJSI0185777,Calotis glandulosa,149.1322052,-36.20756064,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SJJSI0185778,Calotis glandulosa,149.1323427,-36.20761151,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SJJSI0185771,Calotis glandulosa,149.1323541,-36.20882303,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SJJSI0185770,Calotis glandulosa,149.1325796,-36.20901581,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SJJSI0185773,Calotis glandulosa,149.1326192,-36.20847469,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SJJSI0185769,Calotis glandulosa,149.13271,-36.20890886,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SJJSI0185772,Calotis glandulosa,149.1329126,-36.2084948,NA,NA,Asteraceae,NA,NA,NA,Yallakool Road Cooma,NA,NA,2010,NA,NA,NA,NA,BioNet
+NA,SPJGI4964027,Calotis glandulosa,149.1329234,-36.20789265,NA,NA,Asteraceae,NA,NA,NA,"Yallakool Road freehold LOCATION DETAILS: Yallakool Road, Cooma",NA,NA,2001,NA,NA,NA,NA,BioNet
+c32d6ece-ed2c-46c5-80f1-ca51bda635cc,CANB 647821.1,Calotis glandulosa,149.1333,-36.2167,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Yallakool Road, portion 319 Cooma, N of electricity sub-station on Monaro Highway.",1000,New South Wales,2003,PreservedSpecimen,el865,noIssue,TRUE,Australia's Virtual Herbarium
+37752d74-0ac7-4ed7-b7c7-421c3b0d9d52,NE 22669,Calotis glandulosa,149.1333333,-36.23333333,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,Cooma,NA,New South Wales,1954,PreservedSpecimen,el865,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SIXRI1146440,Calotis glandulosa,149.1391762,-36.2128737,NA,NA,Asteraceae,NA,NA,NA,NO. 97K Munyang to Cooma 132KV transmission line - Stage 1 - Cooma to Rocky Plain,NA,NA,2015,NA,NA,NA,NA,BioNet
+adcc435b-d417-4fcb-9315-08b1ffc1f426,CANB 617017.1,Calotis glandulosa,149.1644,-36.2267,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Rocky ridge, 1 km NE of Bushy Hill, 4 km NE of Cooma.",50,New South Wales,1999,PreservedSpecimen,el865,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SPJGI4872884,Calotis glandulosa,149.1742527,-36.06453313,NA,NA,Asteraceae,NA,NA,NA,Rothlyn Road road reserve plot LOCATION DETAILS: Rothlyn rd roadside,NA,NA,2003,NA,NA,NA,NA,BioNet
+NA,SPJGI5051653,Calotis glandulosa,149.17436,-36.0692364,NA,NA,Asteraceae,NA,NA,NA,"Haere Mai freehold (site 1) LOCATION DETAILS: 4km North of Chakola, 22km north of Cooma, West of Cooma-Monaro Railway line Area in ha: 50-60",NA,NA,1995,NA,NA,NA,NA,BioNet
+NA,SPJGI4900244,Calotis glandulosa,149.1747908,-36.06472167,NA,NA,Asteraceae,NA,NA,NA,Haere Mai road reserve LOCATION DETAILS: North side of road from hill to rail crossing,NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SPJGI4900299,Calotis glandulosa,149.1747908,-36.06472167,NA,NA,Asteraceae,NA,NA,NA,Haere Mai road reserve LOCATION DETAILS: North side of road from hill to rail crossing,NA,NA,2001,NA,NA,NA,NA,BioNet
+5bc2fc19-cd13-48bb-99b4-7195e3824911,NSW 281460,Calotis glandulosa,149.283,-36.8167,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Bibbenluke Cemetery, Bibbenluke on Monaro Highway between Nimmitabell and Bombala. (1:100 00 map no. 8724)",10000,New South Wales,1993,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,8517-HOR,Calotis glandulosa,149.2837899,-36.81349087,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Cemetery, Bibbenluke on Monaro Hwy between Nimmitabell and Bombala Specified Map No: 8724",NA,NA,1993,NA,NA,NA,NA,BioNet
+NA,NSW281460,Calotis glandulosa,149.2845647,-36.81511373,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Cemetery, Bibbenluke on Monaro Highway between Nimmitabell and Bombala. (1:100 00 map no. 8724)",NA,NA,1993,NA,NA,NA,NA,BioNet
+NA,SJJSI0621184,Calotis glandulosa,149.29792,-36.8096,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Common, directly south of Moorespings Road c. 280 metres inside western edge of Common",NA,NA,2017,NA,NA,NA,NA,BioNet
+NA,SPJGI4861425,Calotis glandulosa,149.3034918,-36.80896345,NA,NA,Asteraceae,NA,NA,NA,Bibbenluke Common plot 2 LOCATION DETAILS: Bibbenluke Common 2,NA,NA,2003,NA,NA,NA,NA,BioNet
+NA,SPJGI4987026,Calotis glandulosa,149.3069364,-36.81543081,NA,NA,Asteraceae,NA,NA,NA,Bibbenluke Cemetery LOCATION DETAILS: East of Bibbenluke,NA,NA,1995,NA,NA,NA,NA,BioNet
+NA,SPJGI4987148,Calotis glandulosa,149.3075877,-36.8083793,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Common LOCATION DETAILS: Eastern end of common, East of Bibbenluke, N of Moore Springs Road",NA,NA,1999,NA,NA,NA,NA,BioNet
+NA,SPJGI4987251,Calotis glandulosa,149.3075877,-36.8083793,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Common LOCATION DETAILS: Eastern end of common, East of Bibbenluke, N of Moore Springs Road",NA,NA,2001,NA,NA,NA,NA,BioNet
+NA,SPJGI4987222,Calotis glandulosa,149.3075877,-36.8083793,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Common LOCATION DETAILS: Eastern end of common, East of Bibbenluke, N of Moore Springs Road",NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SPJGI4861387,Calotis glandulosa,149.3091894,-36.80610404,NA,NA,Asteraceae,NA,NA,NA,Bibbenluke Common plot 1 LOCATION DETAILS: Bibbenluke Common 1,NA,NA,2003,NA,NA,NA,NA,BioNet
+NA,SJJSI0621187,Calotis glandulosa,149.30953,-36.80674,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Common, north-eastern area. Monitoring plot 4",NA,NA,2017,NA,NA,NA,NA,BioNet
+NA,SJJSI0621188,Calotis glandulosa,149.30957,-36.80682,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Common, north-eastern area. Monitoring plot 5",NA,NA,2017,NA,NA,NA,NA,BioNet
+NA,SJJSI0621176,Calotis glandulosa,149.3097296,-36.8059066,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Common, eastern edge north of main access road. Individuals within 5m radium monitoring plot",NA,NA,2017,NA,NA,NA,NA,BioNet
+NA,SJJSI0621189,Calotis glandulosa,149.30973,-36.80627,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Common, north-eastern area. Monitoring plot 2",NA,NA,2017,NA,NA,NA,NA,BioNet
+NA,SJJSI0621186,Calotis glandulosa,149.30975,-36.80616,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Common, north-eastern area. Monitoring plot 3",NA,NA,2017,NA,NA,NA,NA,BioNet
+NA,SJJSI0621185,Calotis glandulosa,149.3098,-36.80591,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Common, north-eastern area. Monitoring plot 1",NA,NA,2017,NA,NA,NA,NA,BioNet
+NA,SJJSI0621175,Calotis glandulosa,149.3098042,-36.8059066,NA,NA,Asteraceae,NA,NA,NA,"Bibbenluke Common, eastern edge north of main access road. Individuals within 5m radium monitoring plot",NA,NA,2017,NA,NA,NA,NA,BioNet
+NA,SPJGI4905475,Calotis glandulosa,149.3285125,-36.66530928,NA,NA,Asteraceae,NA,NA,NA,Newline Road road reserve (general list) LOCATION DETAILS: Between river and highway,NA,NA,2005,NA,NA,NA,NA,BioNet
+b9a59369-69e8-4f0c-b76c-a9865c49c091,CANB 631350.2,Calotis glandulosa,149.35,-36.6833,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Glen Allen, New Line Road, 15 km NE of Bibbenluke. Grid ref.: AMG 7100 59365.",1000,New South Wales,2000,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+38773779-e093-4fca-b752-8d6df3308324,CANB 631350.1,Calotis glandulosa,149.35,-36.6833,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Glen Allen, New Line Road, 15 km NE of Bibbenluke. Grid ref.: AMG 7100 59365.",1000,New South Wales,2000,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+01e7fd2d-2cc7-478e-b9f5-cdb173032a8c,NSW 519306,Calotis glandulosa,149.35,-36.68,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Glen Allen, New Line Road, 15 km NE of Bibbenluke.",NA,New South Wales,2000,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,NSW519306,Calotis glandulosa,149.3512278,-36.68177924,NA,NA,Asteraceae,NA,NA,NA,"Glen Allen, New Line Road, 15 km NE of Bibbenluke.",NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SPJGI4978780,Calotis glandulosa,149.4503578,-35.2463037,NA,NA,Asteraceae,NA,NA,NA,"Block 314 (Elmslea) LOCATION DETAILS: Block 314 Elmslea suburban development, McCusker Dr Bungendore",NA,NA,2005,NA,NA,NA,NA,BioNet
+NA,SDMPI0121160,Calotis glandulosa,149.4981575,-36.32949232,NA,NA,Asteraceae,NA,NA,NA,E verge of Tuross Road 100m S of property 'Waratah',NA,NA,2005,NA,NA,NA,NA,BioNet
+NA,SDMPI0072017,Calotis glandulosa,149.5017982,-36.32712467,NA,NA,Asteraceae,NA,NA,NA,Kybeyan-Countegany Road verge c. 33km NE of Nimmitabel,NA,NA,2003,NA,NA,NA,NA,BioNet
+2cfba1d9-ad1a-4b43-9ca4-fa003419b2df,NSW 723872,Calotis glandulosa,149.502,-36.327,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Kybean - Countegamy Road N of Green Creek, 300 m N of Waratah, c. 33 km NE from Nimmitabel.",1000,New South Wales,2003,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,NSW723872,Calotis glandulosa,149.5028849,-36.32566492,NA,NA,Asteraceae,NA,NA,NA,"Kybean - Countegamy Road N of Green Creek, 300 m N of Waratah, c. 33 km NE from Nimmitabel.",NA,NA,2003,NA,NA,NA,NA,BioNet
+NA,SPJGI4890983,Calotis glandulosa,149.5122308,-36.31579436,NA,NA,Asteraceae,NA,NA,NA,Triggerplant Grassland plot LOCATION DETAILS: Triggerplant Grassland,NA,NA,2005,NA,NA,NA,NA,BioNet
+NA,SPJGI4952798,Calotis glandulosa,149.6073292,-35.67365931,NA,NA,Asteraceae,NA,NA,NA,Jerrabattgulla Gassland (Bunhybee freehold) LOCATION DETAILS: Jerrabattgulla Rd,NA,NA,2012,NA,NA,NA,NA,BioNet
+NA,SPJGI4952827,Calotis glandulosa,149.6076019,-35.68203589,NA,NA,Asteraceae,NA,NA,NA,Jerrabattgulla Gassland (Parlour freehold),NA,NA,2007,NA,NA,NA,NA,BioNet
+NA,SJJSI0621170,Calotis glandulosa,149.6981669,-35.5034048,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR, monitoring plot 5. Eucalyptus pauciflora open woodland",NA,NA,2017,NA,NA,NA,NA,BioNet
+NA,SJJSI0621172,Calotis glandulosa,149.6990551,-35.5038833,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR, monitoring plot 3. Eucalyptus pauciflora open woodland",NA,NA,2017,NA,NA,NA,NA,BioNet
+NA,SPJGI4984457,Calotis glandulosa,149.6991712,-35.50425694,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR (no. 2) LOCATION DETAILS: 12 km south of Braidwood Road to Captains Flat Road, between Jembaicumbene Creek, Back Creek and Shoalhaven River",NA,NA,1999,NA,NA,NA,NA,BioNet
+NA,SPJGI4984551,Calotis glandulosa,149.6991712,-35.50425694,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR (no. 2) LOCATION DETAILS: 12 km south of Braidwood Road to Captains Flat Road, between Jembaicumbene Creek, Back Creek and Shoalhaven River",NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SPJGI4984664,Calotis glandulosa,149.6991712,-35.50425694,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR (no. 2) LOCATION DETAILS: 12 km south of Braidwood Road to Captains Flat Road, between Jembaicumbene Creek, Back Creek and Shoalhaven River",NA,NA,2013,NA,NA,NA,NA,BioNet
+NA,SPJGI4984475,Calotis glandulosa,149.6991712,-35.50425694,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR (no. 2) LOCATION DETAILS: 12 km south of Braidwood Road to Captains Flat Road, between Jembaicumbene Creek, Back Creek and Shoalhaven River",NA,NA,1999,NA,NA,NA,NA,BioNet
+NA,SPJGI4984540,Calotis glandulosa,149.6991712,-35.50425694,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR (no. 2) LOCATION DETAILS: 12 km south of Braidwood Road to Captains Flat Road, between Jembaicumbene Creek, Back Creek and Shoalhaven River",NA,NA,2000,NA,NA,NA,NA,BioNet
+NA,SPJGI4984628,Calotis glandulosa,149.6991712,-35.50425694,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR (no. 2) LOCATION DETAILS: 12 km south of Braidwood Road to Captains Flat Road, between Jembaicumbene Creek, Back Creek and Shoalhaven River",NA,NA,2011,NA,NA,NA,NA,BioNet
+NA,SPJGI4984603,Calotis glandulosa,149.6991712,-35.50425694,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR (no. 2) LOCATION DETAILS: 12 km south of Braidwood Road to Captains Flat Road, between Jembaicumbene Creek, Back Creek and Shoalhaven River",NA,NA,2005,NA,NA,NA,NA,BioNet
+NA,SPJGI4984652,Calotis glandulosa,149.6991712,-35.50425694,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR (no. 2) LOCATION DETAILS: 12 km south of Braidwood Road to Captains Flat Road, between Jembaicumbene Creek, Back Creek and Shoalhaven River",NA,NA,2012,NA,NA,NA,NA,BioNet
+NA,SJJSI0621173,Calotis glandulosa,149.6992277,-35.5042491,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR, monitoring plot 2. Eucalyptus pauciflora open woodland with c. 5% Kunzea parviflora cover",NA,NA,2017,NA,NA,NA,NA,BioNet
+NA,SJJSI0621171,Calotis glandulosa,149.6992451,-35.5035111,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR, monitoring plot 4. Eucalyptus pauciflora - E. viminalis open woodland, edge of encroaching Kunzea parviflora",NA,NA,2017,NA,NA,NA,NA,BioNet
+648a33cc-e6e6-4085-8281-c8696825f99b,CANB 877659.1,Calotis glandulosa,149.6994,-35.5044,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Back Creek Travelling Stock Reserve, off Braidwood - Cooma Road, just N of Bendoura.",50,New South Wales,2014,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+69c53260-4c6e-4536-bb38-23dacc010bdc,CANB 877659.2,Calotis glandulosa,149.6994,-35.5044,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Back Creek Travelling Stock Reserve, off Braidwood - Cooma Road, just N of Bendoura.",50,New South Wales,2014,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+143e94da-465c-44cb-8f11-9e4047b672e1,NSW 817788,Calotis glandulosa,149.6994,-35.5044,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"Back Creek Travelling Stock Reserve, off Braidwood - Cooma Road, just N of Bendoura.",50,New South Wales,2014,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SPJGI4861121,Calotis glandulosa,149.6995345,-35.50457329,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR (no. 2) plot 2 LOCATION DETAILS: Back Creek TSR, plot 2, southern section",NA,NA,2004,NA,NA,NA,NA,BioNet
+NA,SJJSI0621174,Calotis glandulosa,149.6995719,-35.5044024,NA,NA,Asteraceae,NA,NA,NA,"Back Creek TSR, monitoring plot 1. c. 40% Kunzea parviflora cover with a grassy understorey",NA,NA,2017,NA,NA,NA,NA,BioNet
+NA,SPJGI5006749,Calotis glandulosa,149.7501393,-35.47967047,NA,NA,Asteraceae,NA,NA,NA,"Gilberts Creek TSR (no. 1) western site LOCATION DETAILS: West side of road, opposite Gilberts Creek TSR",NA,NA,2008,NA,NA,NA,NA,BioNet
+NA,SPJGI5006677,Calotis glandulosa,149.7545743,-35.48047058,NA,NA,Asteraceae,NA,NA,NA,"Gilberts Creek TSR (no. 1) south-eastern site LOCATION DETAILS: 6km South of Braidwood on Braidwood-Captains Flat Road, East of road",NA,NA,2008,NA,NA,NA,NA,BioNet
+7028928b-9e90-411b-a941-67a8d952ebd2,WOLL 11036,Calotis glandulosa,150.1854926,-34.52668224,Calotis glandulosa F.Muell.,species,Asteraceae,Calotis,Calotis glandulosa,NA,"870m WNW Bretheren Pt, Canyonleigh.",NA,New South Wales,2001,PreservedSpecimen,NA,noIssue,TRUE,Australia's Virtual Herbarium
+NA,SPJGI2537976,Calotis glandulosa,150.1854926,-34.52668224,NA,NA,Asteraceae,NA,NA,NA,870m WNW of Brethren Point in Belanglo State Forest,NA,NA,2001,NA,NA,NA,NA,BioNet
+NA,SIXRI0919572,Calotis glandulosa,150.1854928,-34.5266822,NA,NA,Asteraceae,NA,NA,NA,"870m WNW Bretheren Pt, Canyonleigh",NA,NA,2001,NA,NA,NA,NA,BioNet

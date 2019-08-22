@@ -1,0 +1,101 @@
+require(leaflet)
+require(sp)
+require(raster)
+require(maptools)
+require(ggmap)
+require(tidyverse)
+
+# load data - GPS tracking of tagged Grey Seals at Sable Island
+# subset of data from https://www.datarepository.movebank.org/handle/10255/move.451
+
+seals <- readr::read_csv('data/seals.csv')
+
+map <- ggmap::get_map(sp::bbox(SpatialPoints(seals[,c('location.long', 'location.lat')])), source="stamen", zoom=8)
+ggmap(map)+geom_path(data=seals, aes(x=location.long, y=location.lat, col=individual.local.identifier))
+
+# points_to_line() converts ordered points to a SpatialLines object 
+# we'll use this to visualise the routes taken by our seals
+source('points_to_line.R') 
+
+lines.sp <- points_to_line(data = seals, 
+                      long = "location.long", 
+                      lat = "location.lat", 
+                      id_field = "individual.local.identifier")
+# convert SpatialLines object to a SpatialLinesDataFrame, with information about Seal identification codes
+lines.spdf <- SpatialLinesDataFrame(sl = lines.sp, data = data.frame(ID=unique(seals$individual.local.identifier)), match.ID = FALSE)
+
+#leaflet::colorFactor provides a shortcut for assigning a palette of colours to the levels of a factor
+pal <- colorFactor(
+  palette = 'Set1',
+  domain =lines.spdf$ID
+)
+
+# lets make a map!
+leaflet() %>% # using pipes (%>%) - these can be translated as "and then do"
+  
+  # add some basemaps
+  addProviderTiles(providers$Esri.WorldImagery, group = "Satellite") %>%
+  addProviderTiles(providers$OpenStreetMap.Mapnik, group = "OpenStreetMap") %>%
+  
+  # add the seal paths we generated above, coloured by the seal who swam the path
+  addPolylines(data = lines.spdf, color=~pal(ID)) %>%
+  
+  # add the observation points associated
+  addCircles(data = seals, 
+             lng = ~location.long, 
+             lat = ~location.lat, 
+             color = ~pal(individual.local.identifier)) %>%
+  
+  addMiniMap(tiles = providers$Esri.WorldStreetMap,
+             toggleDisplay = TRUE,
+             position = "bottomleft",
+             width=100,
+             height=100) %>%
+  
+  addLegend(position = "bottomright", colors = pal(lines.spdf$ID), labels=lines.spdf$ID, opacity=1) %>%
+  
+  # adds a control in the map which allows us to select which basemap we'd like to use
+  addLayersControl(
+    baseGroups = c("Satellite", "OpenStreetMap"),
+    options = layersControlOptions(collapsed = FALSE)
+  )
+  
+# there's a lot of information here - what if we want to see each seal's path individually?
+# this map that allows us to toggle each seal's path on or off
+
+# instantiate the map and add some basemap tiles
+map <- leaflet() %>% 
+  addProviderTiles(providers$Esri.WorldImagery, group = "Satellite") %>%
+  addProviderTiles(providers$OpenStreetMap.Mapnik, group = "OpenStreetMap")
+
+# add each seal's trace to the leaflet object individually 
+groups = as.character(unique(lines.spdf$ID))
+for(g in groups){
+  d = lines.spdf[lines.spdf$ID == g,]
+  map <- map %>% addPolylines(data = d,
+                                 color = ~pal(ID),
+                                 group = g, # this group attribute is what will be referenced by the layersControl below
+                              )
+}
+
+for(g in groups) {
+  d <- seals[seals$individual.local.identifier == g,]
+  map <- map %>% addCircles(data = d,
+                            lng = ~location.long, 
+                            lat = ~location.lat, 
+                            group = g,
+                            color = ~pal(individual.local.identifier), 
+                            popup = paste( # we can use HTML to format a popup which is accessed when points are clicked
+                              '<strong>Animal ID:</strong>', d$individual.local.identifier, '<br>', # we can specify a column in the data that we'd like to reference, and data for that point will be output to the popup
+                              '<strong>Timestamp:</strong>', d$timestamp, '<br>',
+                              '<strong>Cooordinates:</strong>', d$location.long, d$location.lat))
+}
+
+# we can toggle the seal paths we want to see using the 'overlayGroups' attribute in addLayersControl()
+map %>% addLayersControl(baseGroups = c("Satellite", "OpenStreetMap"),
+                         overlayGroups = groups) %>% # the elements of the groups vector are referenced in each iteration of the loops above 
+  addLegend(position = "bottomright", colors = pal(lines.spdf$ID), labels=lines.spdf$ID, opacity=1)
+  
+
+
+

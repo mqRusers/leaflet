@@ -1,0 +1,109 @@
+# Leaflet expects all point, line, and shape data to be specified in latitude and longitude using WGS 84 (a.k.a. EPSG:4326). 
+# By default, when displaying this data it projects everything to EPSG:3857 and expects that any map tiles are also displayed in EPSG:3857.
+# For users who need to display data with a different projection, the Proj4Leaflet plugin (in theory) gives Leaflet access to any CRS that is supported by Proj4js.
+# https://rstudio.github.io/leaflet/projections.html
+
+
+spdat <- readr::read_csv('data/calotis_glandulosa.csv') # read in some species observation data - latitude / longitude format
+
+spdat <- spdat[,1:20]
+
+readr::write_csv(spdat, 'data/calotis_glandulosa.csv')
+
+management_sites <- rgdal::readOGR('data/C_glandulosa_sites/C_glandulosa.shp') # read in a shapefile with polygons defining species management sites
+
+leaflet() %>%
+  
+  addProviderTiles(providers$OpenStreetMap.Mapnik, group = "OpenStreetMap") %>%
+  
+  # species observations
+  addCircles(spdat$longitude, spdat$latitude,
+             fill = TRUE,
+             color = "blue",
+             weight = 0.6,
+             opacity = 0.5,
+             fillOpacity = 0.5,
+             radius = 100,
+  )
+
+leaflet() %>%
+  
+  addProviderTiles(providers$OpenStreetMap.Mapnik, group = "OpenStreetMap") %>%
+  
+  # species observations
+  addCircles(spdat$longitude, spdat$latitude,
+             fill = TRUE,
+             color = "blue",
+             weight = 0.6,
+             opacity = 0.5,
+             fillOpacity = 0.5,
+             radius = 100,
+  ) %>%
+
+  addPolygons(data=management_sites,
+              weight = 1,
+              color = "red",
+              fillColor = "red",
+              opacity = 1,
+              popup = paste(
+                '<strong>SoS Site:</strong>', as.character(management_sites$SiteName))) %>%
+
+  # minimap in bottom left corner
+  addMiniMap(tiles = providers$OpenStreetMap.Mapnik,
+             toggleDisplay = TRUE,
+             position = "bottomleft",
+             width=100,
+             height=100) %>%
+  
+  addLegend(position = "bottomright", colors = c('blue', "red"), labels=c('Species observations', 'Current management sites'), opacity=1)
+
+
+leaflet() %>%
+  
+  addProviderTiles(providers$OpenStreetMap.Mapnik, group = "OpenStreetMap") %>%
+  
+  # species observations
+  addCircles(spdat$longitude, spdat$latitude,
+             fill = TRUE,
+             color = "blue",
+             weight = 0.6,
+             opacity = 0.5,
+             fillOpacity = 0.5,
+             radius = 100,
+             popup = paste( 
+               #create an on-click popup with info about the observations
+                 '<strong>Species:</strong>', as.character(spdat$scientificName), '<br>',
+                 '<strong>Locality:</strong>', as.character(spdat$locality), '<br>',
+                 '<strong>Year of observation:</strong>', spdat$year,'<br>',
+                 '<strong>Data provider:</strong>', spdat$dataProvider)
+  ) %>%
+  
+  addPolygons(data=management_sites,
+              weight = 1,
+              color = "red",
+              fillColor = "red",
+              opacity = 1,
+              popup = paste(
+                '<strong>SoS Site:</strong>', as.character(management_sites$SiteName))) %>%
+  
+  # minimap in bottom left corner
+  addMiniMap(tiles = providers$OpenStreetMap.Mapnik,
+             toggleDisplay = TRUE,
+             position = "bottomleft",
+             width=100,
+             height=100) %>%
+  
+  addLegend(position = "bottomright", colors = c('blue', "red"), labels=c('Species observations', 'Current management sites'), opacity=1)
+
+
+
+# label=paste('Click for info on observation'),
+# popup = paste( # create an on-click popup with info about the observations
+#   '<strong>Site:</strong>', capitalize(as.character(spdat$Descriptio)), '<br>',
+#   '<strong>Accuracy (m):</strong>', spdat$Accuracy,'<br>',
+#   '<strong>Date of last observation:</strong>', spdat$DateLast,'<br>',
+#   # '<strong>Number of individuals:</strong>', paste(spdat$NumberIndi, "- A value of 0 indicates unknown number of individuals.")))%>%
+#   '<strong>Number of individuals:</strong>',
+#   ifelse(spdat$NumberIndi==0,
+#          "Unknown number of individuals",
+#          spdat$NumberIndi))

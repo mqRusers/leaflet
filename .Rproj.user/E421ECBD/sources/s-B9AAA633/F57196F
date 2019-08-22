@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566382731101.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3330661005",
+    "id" : "F57196F",
+    "lastKnownWriteTime" : 1566387641,
+    "last_content_update" : 1566387641477,
+    "path" : "~/Desktop/work/MQRUG_leaflet/leaflet_tutorial/seal_tracking.R",
+    "project_path" : "seal_tracking.R",
+    "properties" : {
+        "cursorPosition" : "15,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
